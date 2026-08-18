@@ -1,0 +1,21 @@
+﻿{
+  "short_name": "MTG Tokens",
+  "name": "MTG Token Browser & Counter",
+  "icons": [
+    {
+      "src": "https://cards.scryfall.io/a/img/images/card_back.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cards.scryfall.io/a/img/images/card_back.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f1115",
+  "theme_color": "#1a1d24",
+  "display": "standalone",
+  "orientation": "portrait"
+}
